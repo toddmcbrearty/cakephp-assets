@@ -1,8 +1,10 @@
 Story
 =====
-I am currently working with a company using cakephp. As most people would say why not just use Laravel. Well I've created an api using Lumen and using mostly Polymer components for the front end till cakephp can be phased out completely. 
+I am currently working with a company using cakephp. As most people would say why not just use Laravel? Well I've created an api using Lumen and using mostly Polymer components for the front end till cakephp can be phased out completely. 
 
-CakePhps utter disregard for proper coding requires you to use multiple steps in order to use vendor packages. Below is my solution to use the great [Stolz/Assets Library](https://github.com/Stolz/Assets) fluently within cakephp.
+CakePhps utter disregard for proper coding requires you to use multiple steps in order to use vendor packages. The Convention Over Configuration makes no sense to me other than a fly by the night company banging out as many sites as possible.
+
+Below is my solution to use the great [Stolz/Assets Library](https://github.com/Stolz/Assets) fluently within cakephp.
 
 Let's hope soon enough we'll be running the front with angular/react/pile of dog dung with lumen in the back instead of cakephp 
 
