@@ -20,10 +20,10 @@ Usage
 load the component in all parent controller classes
 `$this->loadComponent('Assets');`
 
-to print out the css add
+to print out the css tags add
 `<?=$css?>`
 
-to print out the js add
+to print out the js tags add
 `<?=$js?>`
 
 [Stolz/Assets Library Documentation](https://github.com/Stolz/Assets/blob/master/README.md)
