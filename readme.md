@@ -6,7 +6,7 @@ CakePhps utter disregard for proper coding requires you to use multiple steps in
 
 Below is my solution to use the great [Stolz/Assets Library](https://github.com/Stolz/Assets) fluently within cakephp.
 
-Let's hope soon enough we'll be running the front with angular/react/pile of dog dung with lumen in the back instead of cakephp 
+Let's hope soon enough we'll be running the front with (angular/react/pile of dog dung) with lumen in the back instead of cakephp.
 
 
 Requirements
